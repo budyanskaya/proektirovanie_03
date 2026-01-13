@@ -37,6 +37,9 @@
 ### Ссылочный тип данных
 <img width="1612" height="289" alt="image" src="https://github.com/user-attachments/assets/82f0d04b-54c6-465a-a72b-3ce4e82ec162" />
 
+### ER-диаграмма
+<img width="1641" height="988" alt="image" src="https://github.com/user-attachments/assets/ddea2ee7-ce6b-47e9-84ed-6e371bb98452" />
+
 
 
 
